@@ -1,0 +1,17 @@
+[
+  {
+    "price" : 120.5,
+    "period" : 8,
+    "error" : ""
+  },
+  {
+    "price" : 80.8,
+    "period" : 5,
+    "error" : ""
+  },
+  {
+    "price" : 20.2,
+    "period" : 2,
+    "error" : ""
+  }
+]

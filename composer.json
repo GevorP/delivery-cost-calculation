@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/src",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gevor",
+      "email": "gevorg.petrosyan.1996@gmail.com"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "DeliveryCalculation\\": "src"
+    }
+  }
+}
